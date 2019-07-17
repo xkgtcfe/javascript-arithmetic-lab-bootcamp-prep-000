@@ -38,7 +38,7 @@ function makeInt(n) {
 makeInt("5")
 
 function makeInt(n, base) {
-  return parseInt('n';
+  return parseInt('n');
 }
 
 makeInt("12", 10)
