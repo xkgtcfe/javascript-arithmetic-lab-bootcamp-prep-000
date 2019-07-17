@@ -42,12 +42,6 @@ function makeInt(n) {
 }
 
 
-function makeInt(n) {
-  return (n)
-}
-
-makeInt('rfrfr')
-
 function preserveDecimal(n) {
   return parseFloat(n)
 } 
